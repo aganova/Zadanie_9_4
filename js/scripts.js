@@ -11,7 +11,7 @@ function drawXmasTree(height) {
 				star += "* ";
 			}
 		}
-	console.log(star);
+		console.log(star);
 	}
 }
 
